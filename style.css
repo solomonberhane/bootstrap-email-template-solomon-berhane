@@ -1,0 +1,34 @@
+body {
+    min-height: 100vh;
+}
+
+.background-container {
+    border: 10px solid green;
+    min-height: 100vh;
+
+}
+
+.folders-column {
+    border: 5px solid blue;
+
+}
+
+.mail-text-column {
+    border: 3px solid red;
+
+}
+
+.mail-text-container {
+    border: 5px solid purple;
+
+}
+
+.mail-column {
+    border: 3px solid orange;
+
+}
+
+.text-column {
+    border: 3px solid black;
+
+}
