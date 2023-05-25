@@ -1,34 +1,41 @@
 body {
-    min-height: 100vh;
+    height: 100vh;
+}
+
+.special-row {
+    height: 94%;
+}
+
+.body-height {
+    height: 94%;
 }
 
 .background-container {
-    border: 10px solid green;
-    min-height: 100vh;
+    border: none;
+    background-color: rgb(217, 235, 235);
+}
 
+.navbar {
+    background-color: rgb(217, 235, 235);
 }
 
 .folders-column {
-    border: 5px solid blue;
-
+    border: none;
+    background-color: rgb(217, 235, 235);
 }
 
 .mail-text-column {
-    border: 3px solid red;
-
+    border: none;
 }
 
 .mail-text-container {
-    border: 5px solid purple;
-
+    border: none;
 }
 
 .mail-column {
-    border: 3px solid orange;
-
+    border: none;
 }
 
 .text-column {
-    border: 3px solid black;
-
+    border: none;
 }
